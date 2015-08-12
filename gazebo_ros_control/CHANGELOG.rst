@@ -2,6 +2,12 @@
 Changelog for package gazebo_ros_control
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.5.0 (2015-04-30)
+------------------
+* run_depend on libgazebo5-dev instead of gazebo5
+* Changed the rosdep key for gazebo to gazebo5, for Jade Gazebo5 will be used.
+* Contributors: Steven Peters, William Woodall
+
 2.4.8 (2015-03-17)
 ------------------
 * Merge pull request `#244 <https://github.com/ros-simulation/gazebo_ros_pkgs/issues/244>`_ from cottsay/control-urdf-fix
