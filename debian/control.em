@@ -11,4 +11,5 @@ Standards-Version: 3.9.2
 Package: @(Package.replace('gazebo-','gazebo6-'))
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, @(', '.join(Depends))
+Conflicts: @(Package), @(Package)-current, @(Package.replace('gazebo-','gazebo4-')), @(Package.replace('gazebo-','gazebo5-'))
 Description: @(Description)
