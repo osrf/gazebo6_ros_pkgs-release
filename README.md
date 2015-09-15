@@ -1,3 +1,29 @@
+## gazebo6_ros_pkgs (indigo) - 2.4.9-1
+
+The packages in the `gazebo6_ros_pkgs` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --track indigo --ros-distro indigo gazebo6_ros_pkgs --edit` on `Tue, 15 Sep 2015 20:01:14 -0000`
+
+These packages were released:
+- `gazebo_msgs`
+- `gazebo_plugins`
+- `gazebo_ros`
+- `gazebo_ros_control`
+- `gazebo_ros_pkgs`
+
+Version of package(s) in repository `gazebo6_ros_pkgs`:
+- upstream repository: https://github.com/ros-simulation/gazebo_ros_pkgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `2.4.9-0`
+- new version: `2.4.9-1`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.37`
+
+
 ## gazebo6_ros_pkgs (jade) - 2.5.1-2
 
 The packages in the `gazebo6_ros_pkgs` repository were released into the `jade` distro by running `/usr/bin/bloom-release --rosdistro jade --track jade gazebo6_ros_pkgs` on `Mon, 17 Aug 2015 16:13:47 -0000`
